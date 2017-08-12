@@ -4,7 +4,7 @@
 name = "Modular Cv"
 license = "MIT"
 licenselink = "https://github.com/ilkelma/modular-cv/blob/master/LICENSE.md"
-description = ""
+description = "A modular cv with dynamic sections and a printable view"
 homepage = ""
 tags = ["cv","resume","résumé"]
 features = []
